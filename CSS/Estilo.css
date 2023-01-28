@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+ body {
+		background: #0CDF8D;
+	 font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif"
+	}
+
+img.Disenoweb2{
+	
+  float:right;
+  margin-left: 20px;
+}
+
+header {
+	text-align: center;
+	color: blanchedalmond;
+	background: black;
+	
+	}
+
+nav  {
+	text-align: inherit;
+	color: blanchedalmond;
+	}
+	
+img.Disenoweb3{
+	
+  float:right;
+  margin-left: 20px;
+}
+
+section {
+	text-align: center;
+	color: blanchedalmond;
+	background: black;
+	}
+
+article {
+	text-align: center;
+	color: blanchedalmond;
+	background: black;
+	}
+
+img.Disenoweb4{
+	
+  float: right;
+  margin-left: 20px;
+}
+
+img.Redes{
+	
+  float: right;
+  margin-left: 20px;
+}
+
+#menu {
+	background: #000;
+}
+#menu ul {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+#menu ul li{
+	padding: 10px;
+	display: inline-block;
+}
+
+#menu ul li a{
+	color: white;
+	text-decoration: none;
+}
+
+#menu ul li a:hover{
+	background: #42B881;
+}
+
+footer {
+	background: #560608;
+}
+
+
+
+
+
+
+
